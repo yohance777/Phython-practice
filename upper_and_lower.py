@@ -1,6 +1,6 @@
-text = "hello_world"
-print(text)
-length = len(text)
-uppercase = text.lower()
+t = "hello_world"
+print(t)
+length = len(t)
+uppercase = t.upper()
 print(uppercase)
 

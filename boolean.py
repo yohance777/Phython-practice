@@ -1,5 +1,6 @@
-school_is_on_holyday = True
-if school_is_on_holyday:
+s = 10
+v = 20
+if (s<v or s<=v):
     print(" holiday!!!!")
 else:
     print("no holyday")
